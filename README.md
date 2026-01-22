@@ -4,8 +4,6 @@ BookNest is a high-performance, responsive book discovery application designed w
 🚀 Features
 Dynamic Filtering: Instantly filter books by genre (Fiction, Sci-Fi, Biography, etc.) or search by title and author using optimized useMemo logic.
 
-Persistent User State: Uses localStorage to ensure the user's Dark Mode preference and Reading List stay saved even after a page refresh.
-
 Fluid UI/UX: Powered by Framer Motion for layout transitions and Lucide React for high-quality iconography.
 
 Responsive Design: Fully optimized for mobile, tablet, and desktop viewports using Tailwind CSS.
