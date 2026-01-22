@@ -1,7 +1,8 @@
-📚 BookNest | Premium Literary Discovery Platform
+📚 **BookNest** | Premium Literary Discovery Platform
+
 BookNest is a high-performance, responsive book discovery application designed with a focus on smooth user experience and clean UI/UX. It features real-time filtering, a persistent dark mode, and a functional reading list (wishlist) system.
 
-🚀 Features
+🚀** Features**
 Dynamic Filtering: Instantly filter books by genre (Fiction, Sci-Fi, Biography, etc.) or search by title and author using optimized useMemo logic.
 
 Fluid UI/UX: Powered by Framer Motion for layout transitions and Lucide React for high-quality iconography.
@@ -10,7 +11,7 @@ Responsive Design: Fully optimized for mobile, tablet, and desktop viewports usi
 
 Interactive Reading List: A side-drawer interface allowing users to manage their curated collection in real-time.
 
-🛠️ Technical Stack
+🛠️ **Technical Stack**
 Frontend: React (Hooks, Context, Functional Components)
 
 Styling: Tailwind CSS (Class-based Dark Mode)
@@ -21,7 +22,7 @@ Icons: Lucide-React
 
 Build Tool: Vite
 
-⚙️ Installation & Setup
+⚙️ **Installation & Setup**
 Clone the repository:
 
 Bash
@@ -42,9 +43,5 @@ Run the development server:
 Bash
 
 npm run dev
-🧠 Why I Built It This Way
-Performance: I implemented useMemo for the filtering logic to prevent expensive re-calculations on every render, ensuring a "snappy" feel even if the book list grows to hundreds of items.
 
-State Management: Rather than using heavy external libraries, I utilized React's native useState and useEffect hooks to handle local persistence, demonstrating a deep understanding of the React lifecycle.
 
-Design System: I followed a "Mobile-First" approach, ensuring the typography and spacing remain legible across all devices.
