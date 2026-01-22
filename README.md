@@ -1,10 +1,14 @@
 📚 **BookNest** | Premium Literary Discovery Platform
 
+<div align="center"> <br /> <video src="Screen Recording 2026-01-22 154042.mp4" width="100%" controls> Your browser does not support the video tag. </video> <p align="center"> <i>Live demonstration of real-time search, genre filtering, and responsive design.</i> </p> </div>
+
+
 
 BookNest is a high-performance, responsive book discovery application designed with a focus on smooth user experience and clean UI/UX. It features real-time filtering.
 
 
 🚀 **Features**
+
 
 
 **Dynamic Filtering**: Instantly filter books by genre (Fiction, Sci-Fi, Biography, etc.) or search by title and author using optimized useMemo logic.
