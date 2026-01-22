@@ -1,7 +1,7 @@
 📚 **BookNest** | Premium Literary Discovery Platform
 <div align="center">
 
-[![BookNest Demo](https://raw.githubusercontent.com/mohitdhana/BookNest/main/thumbnail.png)](https://github.com/mohitdhana/BookNest/raw/main/Screen%20Recording%202026-01-22%20154042.mp4)
+[![BookNest Demo](https://github.com/mohitdhana/BookNest/blob/main/tumbnail.png)](https://github.com/mohitdhana/BookNest/raw/main/Screen%20Recording%202026-01-22%20154042.mp4)
 
 <p><i>Live demonstration of real-time search, genre filtering, and responsive design.</i></p>
 
